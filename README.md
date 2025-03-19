@@ -2,6 +2,11 @@
 
 This project is a balancing robot that uses PID control to maintain its balance. The robot uses an MPU-6050 IMU (accelerometer and gyroscope) to sense its orientation and adjusts its motors to stay balanced. The robot uses ESCs (Electronic Speed Controllers) to control the motors' speed.
 
+![WhatsApp Image 2025-03-19 at 21 06 54](https://github.com/user-attachments/assets/92982983-194d-4eb7-b2e6-e08bb1a2819a)
+![WhatsApp Image 2025-03-19 at 21 06 18](https://github.com/user-attachments/assets/e9715bf4-c6bf-4ef2-8073-34beb57c73c9)
+
+
+
 ## Features
 
 - **PID Balance Control**: The robot uses a PID controller to adjust the speed of the motors and keep itself upright.
